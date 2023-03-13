@@ -1,10 +1,7 @@
 ### Olá! Eu sou o Gustavo! 😼
-<br/>
-
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/9hapv7exf1j8z78or32bwcutw)
 [![Spotify](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/klawuwu)
 
-<br/>
 <br/>
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustawalk&show_icons=true&theme=transparent)
