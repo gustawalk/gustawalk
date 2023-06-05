@@ -22,6 +22,7 @@
 
 <div style="word-spacing: 5px; margin-left:30px;">
     <img class="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
+    <img class="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 </div>
 <br/>
 <br/>
@@ -33,7 +34,6 @@
     <img class="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
     <img class="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
     <img class="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></img>
-    <img class="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 </div>
 <br/>
 <br/>
