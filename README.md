@@ -16,25 +16,23 @@
     <img style="height: 35px; width: 40px;" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />   <!-- PHP -->    
     <img style="height: 35px; width: 40px;" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />   <!-- Java -->  
     <img style="height: 35px; width: 40px;" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />   <!-- Python -->
+    <img style="height: 35px; width: 40px;" title="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />   <!-- NodeJs -->
 </div>
 
 ### Currently studing:
 
 <div style="word-spacing: 5px; margin-left:30px;">
-    <img style="height: 35px; width: 40px;" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />   <!-- C++ -->    
-    <img style="height: 35px; width: 40px;" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />   <!-- React -->
-    <img style="height: 35px; width: 40px;" title="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />   <!-- NodeJs -->
-    <img style="height: 35px; width: 40px;" title="Insomnia" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />   <!-- Insomnia -->
-    <img style="height: 35px; width: 40px;" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />   <!-- Mongodb --> 
-    <img style="height: 35px; width: 40px;" title="Mongoose" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />    <!-- Mongoose -->    
+    <img style="height: 35px; width: 40px;" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />   <!-- Typescript --> 
+    <img style="height: 35px; width: 40px;" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />   <!-- Rust --> 
+    <img style="height: 35px; width: 40px;" title="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />   <!-- Vue --> 
+    <img style="height: 35px; width: 40px;" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> <!-- Docker -->
 </div>
 
 ### I intend to study in the future:
 
 <div>
-    <img style="height: 35px; width: 40px;" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />   <!-- C# -->    
+    <img style="height: 35px; width: 40px;" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />   <!-- C++ -->    
     <img style="height: 35px; width: 40px;" title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />   <!-- Lua -->
-    <img style="height: 35px; width: 40px;"  title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />   <!-- Typescript --> 
 </div>
 <hr>
 
