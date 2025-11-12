@@ -25,6 +25,7 @@
     <img style="height: 35px; width: 40px;" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />   <!-- Typescript --> 
     <img style="height: 35px; width: 40px;" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />   <!-- Rust --> 
     <img style="height: 35px; width: 40px;" title="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />   <!-- Vue --> 
+    <img style="height: 35px; width: 40px;" title="React"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <!-- React -->          
     <img style="height: 35px; width: 40px;" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> <!-- Docker -->
 </div>
 
